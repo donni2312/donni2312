@@ -17,7 +17,7 @@
 ```
  I-am-donni2312 
  -------------------------
- 📚 Pursuing Bachelor of Science (Honors) in Information Technology @ Chinhoyi University of Technology.
+ 📚 Pursuing Bachelor of Science (Honors) in IT @ Chinhoyi University of Technology.
  📝 I have a strong interest in Software Development & e-commerce.
  😲 I'm very enthusiastic to learn and work in the new technologies.
  🔭 Currently working on Full-stack web development projects
@@ -131,7 +131,7 @@
 <p align="center">
 	<a href="mailto:a.donnelly2312@gmail.com"><img src="Gmail-logo.jpg" width="50px"alt="Gmail"/></a>
 	<a href="https://github.com/donni2312"><img src="Github-logo.jpeg" width="50px" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/donnelly-zhou"><img src="Linkedin.jpeg" width="50px" alt="LinkedIn"/></a>
+	<a href="www.linkedin.com/in/donnelly-zhou-b77a21231"><img src="Linkedin.jpeg" width="50px" alt="LinkedIn"/></a>
 	<a href="https://x.com/iam_DONNELLY23"><img src="X.jpg" Width="50px"alt="X"/></a>
 	
 	
